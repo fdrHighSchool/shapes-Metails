@@ -21,5 +21,6 @@ public class Shapes{
     //generate some output
     System.out.println("A square with side " + s + " has an area of " + a);
   }//close square method
+  //hi
 
 }
